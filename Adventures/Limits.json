@@ -20,9 +20,9 @@
 	},
 	"adventure": [
 		{
-			"name": "Limitless Adventures",
-			"id": "Limitless-1",
-			"source": "Limitless Adventures",
+			"name": "Limits",
+			"id": "LmtS",
+			"source": "Limits",
 			"contents": [
 				{
 					"name": "Urban Encounters",
