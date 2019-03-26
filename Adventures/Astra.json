@@ -2,14 +2,14 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "Astra",
+				"json": "Slicer",
 				"abbreviation": "Brew",
-				"full": "Astranauta",
+				"full": "Slicer",
 				"authors": [
-					"Astranauta"
+					"Slicer"
 				],
 				"version": "1.0",
-				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"url": "https://github.com/Skalinos/Kyrthendel/tree/master/Adventures",
 				"targetSchema": "1.2.0"
 			}
 		],
@@ -18,7 +18,7 @@
 	"legendaryGroup": [
 		{
 			"name": "Example",
-			"source": "Astra",
+			"source": "Slicer",
 			"lairActions": [
 				"On Initiative count 20 (losing initiative ties), The Oaken Bolter can take a lair action to cause one of the following effects: it can't use the same effect two rounds in a row:",
 				{
