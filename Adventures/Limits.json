@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "Limits",
-				"abbreviation": "LmtS",
-				"full": "Limits",
+				"json": "Kyrthendel",
+				"abbreviation": "KnD",
+				"full": "Kyrthendel",
 				"authors": [
 					"Slicer"
 				],
@@ -12,7 +12,7 @@
 					"Slicer"
 				],
 				"version": "1.0",
-				"url": "",
+				"url": "https://github.com/Skalinos/Kyrthendel",
 				"targetSchema": "1.0.0"
 			}
 		],
@@ -21,8 +21,8 @@
 	"adventure": [
 		{
 			"name": "Limits",
-			"id": "LmtS",
-			"source": "Limits",
+			"id": "Kyrthendel",
+			"source": "Kyrthendel",
 			"contents": [
 				{
 					"name": "Urban Encounters",
